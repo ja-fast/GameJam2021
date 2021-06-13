@@ -1,2 +1,1 @@
-depth = -99
-holding = false
+event_inherited() 

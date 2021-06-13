@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_hurdle_str",
-    "path": "sprites/spr_hurdle_str/spr_hurdle_str.yy",
+    "name": "spr_hurdle",
+    "path": "sprites/spr_hurdle/spr_hurdle.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_item",
+    "path": "objects/obj_item/obj_item.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

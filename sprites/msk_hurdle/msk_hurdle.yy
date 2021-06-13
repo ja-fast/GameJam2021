@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "obstacles",
-    "path": "folders/Sprites/obstacles.yy",
+    "name": "masks",
+    "path": "folders/Sprites/masks.yy",
   },
   "resourceVersion": "1.0",
   "name": "msk_hurdle",

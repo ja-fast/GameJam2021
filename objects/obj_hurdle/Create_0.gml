@@ -1,4 +1,5 @@
-depth = -99
+event_inherited() 
+
 starting_angle = irandom_range(0,359)
 image_angle = starting_angle
-holding = false
+self.rotate_when_grabbed = true
