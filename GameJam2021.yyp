@@ -9,6 +9,7 @@
     {"id":{"name":"obj_track_finish","path":"objects/obj_track_finish/obj_track_finish.yy",},"order":3,},
     {"id":{"name":"msk_hurdle","path":"sprites/msk_hurdle/msk_hurdle.yy",},"order":2,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
+    {"id":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"order":6,},
     {"id":{"name":"spr_hurdle_str","path":"sprites/spr_hurdle_str/spr_hurdle_str.yy",},"order":0,},
     {"id":{"name":"obj_drink","path":"objects/obj_drink/obj_drink.yy",},"order":5,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":4,},
