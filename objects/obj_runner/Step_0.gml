@@ -8,12 +8,15 @@ if (place_meeting(x,y,obj_hurdle)){
 	}
 	
 }
-if(place_meeting(x,y,obj_drink)){
-	inst = instance_nearest(x,y,obj_drink);
-	if (inst.placed) {
-		drink_boosted = true
-		run_speed = base_speed*3
-	}
+//if(place_meeting(x,y,obj_drink)){
+//	inst = instance_nearest(x,y,obj_drink);
+//	if (inst.placed) {
+//		drink_boosted = true
+//		run_speed = base_speed*3
+//	}
+//}
+if(drink_boosted){
+	run_speed = base_speed*3
 }
 if (place_meeting(x,y,obj_mud_puddle)){
 	inst = instance_nearest(x,y,obj_mud_puddle);
