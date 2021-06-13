@@ -1,5 +1,15 @@
-move_wrap(true, true, 0);
-speed = run_speed;
+//move_wrap(true, true, 0);
+if (finished){
+	speed = 0
+	run_speed = 0
+	base_speed = 0
+}
+else{
+	speed = run_speed;
+	timer += 1/room_speed;
+}
+
+
 
 if (place_meeting(x,y,obj_hurdle)){
 	inst = instance_nearest(x,y,obj_hurdle);
