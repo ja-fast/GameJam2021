@@ -1,10 +1,9 @@
 if (mouse_check_button_pressed(mb_left)) {
-    self.mask_index = msk_hurdle;
+    self.mask_index = msk_drink;
 	if (position_meeting(mouse_x, mouse_y,self)) {
 		holding = true;
-		self.image_angle = 0
     }
-	self.mask_index = spr_hurdle_str;
+	self.mask_index = spr_drink;
 }
 if (holding){
 	x = mouse_x;

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hurdle_str",
-    "path": "sprites/spr_hurdle_str/spr_hurdle_str.yy",
+    "name": "spr_drink",
+    "path": "sprites/spr_drink/spr_drink.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_hurdle",
+  "name": "obj_drink",
   "tags": [],
   "resourceType": "GMObject",
 }
